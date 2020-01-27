@@ -56,3 +56,5 @@ wambuilucie99@gmail.com
 Licence
 
 This project is Licensed under MIT.@2019 copyright kinyanjui Lucy Wambui.
+
+[![codebeat badge](https://codebeat.co/badges/9840736a-7077-4b52-b158-9f1000df2b86)](https://codebeat.co/projects/github-com-wambuilucy-password-locker-master)
