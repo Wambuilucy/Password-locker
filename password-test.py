@@ -106,7 +106,7 @@ class TestUser(unittest.TestCase):
         test_user = User("Test","user","account","test@user.com") # new name
         
 
-        found_user = User.find_by_name("Lucy")
+        found_user = User.find_by_name("Kinyanjui")
 
         self.assertEqual(found_user.email,test_user.email)
         
