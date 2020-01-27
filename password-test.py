@@ -13,7 +13,7 @@ class TestUser(unittest.TestCase):
         '''
         Set up method to run before each test cases.
         '''
-        self.new_user = User("Lucy","Wambui", "account","wambuilucie99@gmail.com") 
+        self.new_user = User("Kinyanjui","Lucy", "account","wambuilucie99@gmail.com") 
         self.new_credential = Credential("Wambui", "account","wambuilucie99@gmail.com")     
         
     def test_init(self):
