@@ -50,7 +50,7 @@ class User:
     @classmethod
     def name_exist(cls,name):
         '''
-        Method that checks if a user exists from the name list.
+        Method checking if a user exists from a list.
         Args:
             name: user name to search if it exists
         Returns :
