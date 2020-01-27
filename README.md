@@ -15,7 +15,7 @@ No web dependency is needed
 BDD
 
 Type in keyword cu to create user
-1. Create User
+1. Creating a user
 
 input: "User-Name"
 output: "User-Name"
@@ -30,13 +30,13 @@ Type in keyword ex to exit the application
 input: "ex"
 output: "Message that allows you to exit the application and terminates the application"
 
-3. Display the Accounts
+3. Displaying the accounts.
 
 Type in keyword du to display contacts.
 input: "dc"
 output:"list of accounts that are available in the application"
 
-3. Error Message
+4. Error Message
 
 If one enters a short code that is not offered in the options, An error message is printed out on the terminal ie Please use the short codes that are provided
 
